@@ -1,0 +1,94 @@
+{
+    "frames": {
+        "down0.png": {
+            "frame": {
+                "x": 0,
+                "y": 0,
+                "w": 32,
+                "h": 32
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 10,
+                "y": 20,
+                "w": 12,
+                "h": 8
+            },
+            "sourceSize": {
+                "w": 32,
+                "h": 32
+            }
+        },
+        "down1.png": {
+            "frame": {
+                "x": 32,
+                "y": 0,
+                "w": 32,
+                "h": 32
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 10,
+                "y": 20,
+                "w": 12,
+                "h": 8
+            },
+            "sourceSize": {
+                "w": 32,
+                "h": 32
+            }
+        },
+        "down2.png": {
+            "frame": {
+                "x": 0,
+                "y": 32,
+                "w": 32,
+                "h": 32
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 10,
+                "y": 20,
+                "w": 12,
+                "h": 8
+            },
+            "sourceSize": {
+                "w": 32,
+                "h": 32
+            }
+        },
+        "down3.png": {
+            "frame": {
+                "x": 32,
+                "y": 32,
+                "w": 32,
+                "h": 32
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 10,
+                "y": 20,
+                "w": 12,
+                "h": 8
+            },
+            "sourceSize": {
+                "w": 32,
+                "h": 32
+            }
+        }
+    },
+    "meta": {
+        "app": "https://github.com/piskelapp/piskel/",
+        "version": "1.0",
+        "image": "down.png",
+        "format": "RGBA8888",
+        "size": {
+            "w": 64,
+            "h": 64
+        }
+    }
+}
